@@ -1,5 +1,5 @@
 # Habit Tracker
-This is a sample vite + TypeScript + React applicaiton where we have used redux toolkit
+This is a sample Vite + TypeScript + React application where we have used redux toolkit
 
 
 
